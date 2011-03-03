@@ -2,46 +2,49 @@
 layout: default
 title:  "Utah Ruby User Group"
 ---
-<section>
-	<h1>Who are you?</h1>
-	<p>The Utah Ruby Users Group ("URUG") is a mostly informal collection of individuals interested in the Ruby programming language.</p>
+<h1>Who are you?</h1>
+<p>The Utah Ruby Users Group ("URUG") is a mostly informal collection of individuals interested in the Ruby programming language.</p>
 
-	<h1>When do you meet?</h1>
-	<p>We have several chapters, or brigades.</p>
-	<h2>Salt Lake City Ruby Brigade (slc.rb)</h2>
-	<p>4th Tuesday of the month at 6:30 PM (3rd Tuesday in Nov &amp; Dec)<br>
-	Neumont University (<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=neumont+university+utah&amp;ie=UTF8&amp;attrid=&amp;ei=sr9fSJvVE53EiQOdh8zoDw&amp;view=map&amp;ll=40.585799,-111.885109&amp;spn=0.135058,0.272598&amp;z=12&amp;iwloc=A">map</a>)<br>
-	10701 South River Front Parkway Room #300<br>
-	South Jordan, UT</p>
-	<h2>Utah Valley Ruby Brigade (uv.rb)</h2>
-	<p>2nd Tuesday of the month at 7PM<br>
-	One on One (<a href="http://bit.ly/i4iBhW">map</a>)<br>
-	2912 Executive Pkwy, Suite 300<br>
-	Lehi, UT 84043</p>
-	<p>Take the Highland/Alpine exit and go west. Go though the first light and then take the 2nd left. The address is 2912 Executive Parkway (the second Xango building next to the soccer field). Go to the West Lobby and they'll have people there to bring you in.</p>
-	<h2>Layton Ruby Brigade (layton.rb)</h2>
-	<p>3rd Tuesday of the month at 6 PM<br>
-	Divergent Logic in Layton (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=201+East+2150+North+Suite+C+Layton+Utah+84041+&amp;sll=37.0625,-95.677068&amp;sspn=59.856937,51.591797&amp;ie=UTF8&amp;hq=&amp;hnear=201+E+2150+N,+Layton,+Davis,+Utah+84041&amp;z=17">map</a>)<br>
-	201 East 2150 North, STE C<br>
-	Layton, UT 84041</p>
-	<h2>Logan Ruby Brigade (logan.rb)</h2>
-	<p>2rd Tuesday of every month at lunch. The location is announced on the <a href="http://groups.google.com/group/loganrb">Logan.rb list</a>.</p>
-	<h2>St. George Ruby Brigade (stgeorge.rb)</h2>
-	<p>Details coming soon...</p>
+<h1>When do you meet?</h1>
+<p>We have several chapters, or brigades.</p>
 
-	<h1>How do I join?</h1>
-	<p>URUG membership incurs no dues, no fees, and no obligation. Just <a href="https://groups.google.com/forum/#!forum/urug">join the mailing list</a>, show up to the meetings periodically, and you're welcome to call yourself a member of the URUG. Its so easy to interact with other professional and hobby Rubyists in your area you'll kick yourself for not doing it sooner!</p>
+<h2>Salt Lake City Ruby Brigade (slc.rb)</h2>
+<p>4th Tuesday of the month at 6:30 PM (3rd Tuesday in Nov &amp; Dec)<br>
+Neumont University (<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=neumont+university+utah&amp;ie=UTF8&amp;attrid=&amp;ei=sr9fSJvVE53EiQOdh8zoDw&amp;view=map&amp;ll=40.585799,-111.885109&amp;spn=0.135058,0.272598&amp;z=12&amp;iwloc=A">map</a>)<br>
+10701 South River Front Parkway Room #300<br>
+South Jordan, UT</p>
 
-	{% if site.posts.size > 0 %}
-	<section style="posts">
-	  <h1>Posts!</h1>
-	{% for post in site.posts %}
-	  <article>
-	    <h2><a href="{{ post.url | replace:'.html','' }}">{{ post.title }}</a></h2>
-	    {{ post.desc | textilize }}
-	    <p>Posted {{ post.date | date_to_string }}. <a href="{{ post.url | replace:'.html','' }}#disqus_thread">Comments</a></p>
-	  </article>
-	{% endfor %}
-	</section>
-	{% endif %}
+<h2>Utah Valley Ruby Brigade (uv.rb)</h2>
+<p>2nd Tuesday of the month at 7PM<br>
+One on One (<a href="http://bit.ly/i4iBhW">map</a>)<br>
+2912 Executive Pkwy, Suite 300<br>
+Lehi, UT 84043</p>
+<p>Take the Highland/Alpine exit and go west. Go though the first light and then take the 2nd left. The address is 2912 Executive Parkway (the second Xango building next to the soccer field). Go to the West Lobby and they'll have people there to bring you in.</p>
+
+<h2>Layton Ruby Brigade (layton.rb)</h2>
+<p>3rd Tuesday of the month at 6 PM<br>
+Divergent Logic in Layton (<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=201+East+2150+North+Suite+C+Layton+Utah+84041+&amp;sll=37.0625,-95.677068&amp;sspn=59.856937,51.591797&amp;ie=UTF8&amp;hq=&amp;hnear=201+E+2150+N,+Layton,+Davis,+Utah+84041&amp;z=17">map</a>)<br>
+201 East 2150 North, STE C<br>
+Layton, UT 84041</p>
+
+<h2>Logan Ruby Brigade (logan.rb)</h2>
+<p>2rd Tuesday of every month at lunch. The location is announced on the <a href="http://groups.google.com/group/loganrb">Logan.rb list</a>.</p>
+
+<h2>St. George Ruby Brigade (stgeorge.rb)</h2>
+<p>Details coming soon...</p>
+
+<h1>How do I join?</h1>
+<p>URUG membership incurs no dues, no fees, and no obligation. Just <a href="https://groups.google.com/forum/#!forum/urug">join the mailing list</a>, show up to the meetings periodically, and you're welcome to call yourself a member of the URUG. Its so easy to interact with other professional and hobby Rubyists in your area you'll kick yourself for not doing it sooner!</p>
+
+{% if site.posts.size > 0 %}
+<section style="posts">
+  <h1>Posts!</h1>
+{% for post in site.posts %}
+  <article>
+    <h2><a href="{{ post.url | replace:'.html','' }}">{{ post.title }}</a></h2>
+    {{ post.desc | textilize }}
+    <p>Posted {{ post.date | date_to_string }}. <a href="{{ post.url | replace:'.html','' }}#disqus_thread">Comments</a></p>
+  </article>
+{% endfor %}
 </section>
+{% endif %}
