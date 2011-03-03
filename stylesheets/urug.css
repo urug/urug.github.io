@@ -14,7 +14,42 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	font: 16px/24px "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	color: #000;
+	background-color: #fff;
+}
 
+h1 {
+	margin: 0.5em 0;
+	font-style: normal;
+	font-size: 32px;
+}
+
+h2 {
+	margin: 0.5em 0;
+	font-style: normal;
+	font-size: 24px;
+}
+
+h3 {
+	margin: 0.5em 0;
+	font-style: normal;
+	font-size: 18px;
+}
+
+p {
+	margin: 1em 0;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #bf1e2d;
+}
+
+ul {
+	list-style-position: outside;
+	list-style-type: disc;
+	margin-left: 2em;
 }
 
 body > header {
@@ -26,11 +61,56 @@ body > header h1 {
 	font-weight: normal;
     font-style: normal;
 	letter-spacing: 0;
+	margin: 0;
 }
 
 body > header h2 {
 	font-size: 24px;
 	line-height: 36px;
+	margin: 0;
+}
+
+body > header p.funny {
+	background-image: url(../images/funny.png);
+	text-indent: -9999px;
+	width: 388px;
+	height: 48px;
+	position: relative;
+	top: -16px;
+	left: 162px;
+	margin: 0;
+}
+
+body > nav {
+	padding: 0;
+	margin: 12px auto;
+	width: 600px;
+	background-color: black;
+	color: white;
+	font-size: 18px;
+	-ms-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+body > nav ul {
+	list-style: none;
+	margin: 0 16px;
+	overflow: auto;
+}
+
+body > nav li {
+	float: left;
+	padding: 8px;
+}
+
+body > nav li:hover {
+	background-color: #555;
+}
+
+body > nav a {
+	color: white;
 }
 
 body > footer {
