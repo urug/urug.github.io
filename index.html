@@ -1,0 +1,16 @@
+---
+layout: default
+title:  "Utah Ruby User Group"
+---
+{% if site.posts.size > 0 %}
+<section style="posts">
+  <h1>Posts!</h1>
+{% for post in site.posts %}
+  <article>
+    <h2><a href="{{ post.url | replace:'.html','' }}">{{ post.title }}</a></h2>
+    {{ post.desc | textilize }}
+    <p>Posted {{ post.date | date_to_string }}. <a href="{{ post.url | replace:'.html','' }}#disqus_thread">Comments</a></p>
+  </article>
+{% endfor %}
+</section>
+{% endif %}
