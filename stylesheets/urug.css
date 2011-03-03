@@ -19,25 +19,32 @@ body {
 }
 
 h1 {
-	margin: 0.5em 0;
-	font-style: normal;
-	font-size: 32px;
+	margin: 0.25em 0;
+	font: 42px/48px 'LeagueGothicRegular', "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	font-weight: normal;
+    font-style: normal;
+	letter-spacing: 0;
 }
 
 h2 {
-	margin: 0.5em 0;
-	font-style: normal;
-	font-size: 24px;
+	margin: 0.25em 0;
+	font: 36px/42px 'LeagueGothicRegular', "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	font-weight: normal;
+    font-style: normal;
+	letter-spacing: 0;
 }
 
 h3 {
-	margin: 0.5em 0;
-	font-style: normal;
-	font-size: 18px;
+	margin: 0.25em 0;
+	font: 24px/28px 'LeagueGothicRegular', "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	font-weight: normal;
+    font-style: normal;
+	letter-spacing: 0;
 }
 
 p {
 	margin: 1em 0;
+	line-height: 1.5em;
 }
 
 a {
@@ -65,8 +72,10 @@ body > header h1 {
 }
 
 body > header h2 {
-	font-size: 24px;
-	line-height: 36px;
+	font: 42px/48px 'LeagueGothicRegular', "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	font-weight: normal;
+    font-style: normal;
+	letter-spacing: 0;
 	margin: 0;
 }
 
