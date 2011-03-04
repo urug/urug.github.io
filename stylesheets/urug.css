@@ -73,6 +73,12 @@ body > header h1 {
 	margin: 0;
 }
 
+body > header h1 a {
+	color: #000;
+	font-weight: normal;
+    font-style: normal;
+}
+
 body > header h2 {
 	font: 42px/48px 'LeagueGothicRegular';
 	font-weight: normal;
