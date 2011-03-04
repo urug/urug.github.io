@@ -1,3 +1,5 @@
+/* @override http://utruby.org/stylesheets/urug.css */
+
 @font-face {
     font-family: 'LeagueGothicRegular';
     src: url('fonts/League_Gothic-webfont.eot');
@@ -13,14 +15,14 @@ body {
 	width: 600px;
 	margin-right: auto;
 	margin-left: auto;
-	font: 16px/24px "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	font: 16px/24px Geneva, Tahoma, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #000;
 	background-color: #fff;
 }
 
 h1 {
 	margin: 0.25em 0;
-	font: 42px/48px 'LeagueGothicRegular', "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	font: 42px/48px 'LeagueGothicRegular';
 	font-weight: normal;
     font-style: normal;
 	letter-spacing: 0;
@@ -28,7 +30,7 @@ h1 {
 
 h2 {
 	margin: 0.25em 0;
-	font: 36px/42px 'LeagueGothicRegular', "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	font: 36px/42px 'LeagueGothicRegular';
 	font-weight: normal;
     font-style: normal;
 	letter-spacing: 0;
@@ -36,7 +38,7 @@ h2 {
 
 h3 {
 	margin: 0.25em 0;
-	font: 24px/28px 'LeagueGothicRegular', "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	font: 24px/28px 'LeagueGothicRegular';
 	font-weight: normal;
     font-style: normal;
 	letter-spacing: 0;
@@ -64,7 +66,7 @@ body > header {
 }
 
 body > header h1 {
-	font: 60px/68px 'LeagueGothicRegular', "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	font: 60px/68px 'LeagueGothicRegular';
 	font-weight: normal;
     font-style: normal;
 	letter-spacing: 0;
@@ -72,7 +74,7 @@ body > header h1 {
 }
 
 body > header h2 {
-	font: 42px/48px 'LeagueGothicRegular', "Helvetica Neue", Helvetica, Geneva, Arial, sans-serif;
+	font: 42px/48px 'LeagueGothicRegular';
 	font-weight: normal;
     font-style: normal;
 	letter-spacing: 0;
