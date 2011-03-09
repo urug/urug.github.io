@@ -39,12 +39,13 @@ Layton, UT 84041</p>
 {% if site.posts.size > 0 %}
 <section style="posts">
   <h1>Posts!</h1>
-{% for post in site.posts %}
+{% for post in site.posts limit:3 %}
   <article>
     <h2><a href="{{ post.url | replace:'.html','' }}">{{ post.title }}</a></h2>
     {{ post.description | textilize }}
-    <p>Posted {{ post.date | date_to_string }}. <a href="{{ post.url | replace:'.html','' }}#disqus_thread">Comments</a></p>
+    <p>Posted by <a href="http://github.com/{{ page.author }}">{{ post.author }}</a> on {{ post.date | date_to_string }}.</p>
   </article>
 {% endfor %}
+  <p><a href="/posts">More posts!</a></p>
 </section>
 {% endif %}
