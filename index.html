@@ -42,7 +42,7 @@ Layton, UT 84041</p>
 {% for post in site.posts %}
   <article>
     <h2><a href="{{ post.url | replace:'.html','' }}">{{ post.title }}</a></h2>
-    {{ post.desc | textilize }}
+    {{ post.description | textilize }}
     <p>Posted {{ post.date | date_to_string }}. <a href="{{ post.url | replace:'.html','' }}#disqus_thread">Comments</a></p>
   </article>
 {% endfor %}
