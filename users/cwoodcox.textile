@@ -1,9 +1,9 @@
 ---
 layout:   page
-title:    "chuck."
+title:    "chuck..."
 username: cwoodcox
 fullname: "Corey Woodcox"
 ---
-Corey doesn't know what to do with his life. He blogs on occasion "here":http://coreywoodcox.com/ and "here":http://macgasm.net/.
-He also wish he was awesome enough to make a gem or something else cool. See his "attempts":http://github.com/cwoodcox.
-Also, he "tweets":http://twitter.com/cwoodcox. A lot.
+... blogs on occasion "here":http://coreywoodcox.com/ and "here":http://macgasm.net/.
+... wishes he could code. See attempts "here":http://github.com/cwoodcox.
+... "tweets":http://twitter.com/cwoodcox. A lot.
