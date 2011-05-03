@@ -1,0 +1,11 @@
+---
+layout: page
+title:  "Tyler Bird"
+username: filmprog
+fullname: "Tyler Bird"
+---
+Unbridled creativity wrapped in an ooey gooey shell.  I think building things is awesome.  Even if that's lines of code or lines of dialogue.  It's creating something that didn't exist before, and that's what I'm all about.
+
+"blog":http://filmprog.com
+"twitter":http://twitter.com/filmprog
+"github":https://github.com/filmprog
