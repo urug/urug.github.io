@@ -1,0 +1,7 @@
+---
+layout:   page
+title:    "TinOmen"
+username: tinomen
+fullname: "Jake Mallory"
+---
+Mike is great but Jake won't infuriate you :b I like to play legos with my kids more than "tweet":http://twitter.com/#!/jakemallory 
