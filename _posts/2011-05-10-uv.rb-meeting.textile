@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Utah Valley Meeting Tonight"
+title: "Utah Valley Meeting for May, 2011"
 author: blowmage
 description: "Meeting notes for uv.rb May, 2011"
 ---
