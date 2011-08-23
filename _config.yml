@@ -1,5 +1,4 @@
 pygments: true
-permalink: pretty
 exclude:
 - README
 - CNAME
