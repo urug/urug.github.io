@@ -1,11 +1,11 @@
 ---
-layout: page
-title:  "Eric Berry"
+layout:   page
+title:    "Eric Berry"
 username: cavneb
 fullname: "Eric Berry"
 ---
-I'll catch up.. don't worry :D
+Riding the jRuby bandwagon
 
-"blog":http://ericberry.wordpress.com
+"blog":http://coderberry.me
 "twitter":http://twitter.com/cavneb
 "github":https://github.com/cavneb
