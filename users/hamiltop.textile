@@ -1,8 +1,9 @@
+---
 layout: page
 title: “Peter Hamilton”
 username: hamiltop
 fullname: “Peter Hamilton”
--
+---
 Peter Hamilton seems to do everything.
 
 His "Blog":http://undiscoveredfeatures.com has everything from hardware hacks to art pieces.
