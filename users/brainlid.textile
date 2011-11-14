@@ -1,0 +1,11 @@
+---
+layout:   page
+title:    "Mark Ericksen is brainlid"
+username: brainlid
+fullname: "Mark Ericksen"
+---
+Mark Ericksen is brainlid. Opening minds and letting it all hang out.
+
+* "twitter":http://twitter.com/brainlid
+* "blog":http://brainlid.posterous.com
+
