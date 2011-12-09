@@ -19,7 +19,7 @@ Send a pull request or send Tyler an "email":mailto:tyler.bird@gmail.com with ch
 |"Dailydazzlingdeals":http://www.dazzlingdailydeals.com/|||Ruby||
 |"Divergent Logic":http://www.divergentlogic.com/|||Ruby||
 |"EmpowerIT.com":http://empowerit.com/||"Allen Maxwell":mailto:amaxwell@empowerit.com|Ruby|"Yes":https://groups.google.com/d/topic/urug/fBFazIh_ZGY/discussion|
-|"Franklin Estimating":http://www.franklinestimating.com/|||Ruby||
+|"Franklin Estimating":http://www.franklinestimating.com/|SLC|Mark Ericksen|Ruby||
 |"HotZing":https://www.hotzing.com/|St George|Keith Kelsch|Ruby||
 |"iFan Media":http://www.ifanmedia.com/|||Ruby||
 |"Instructure":http://www.instructure.com/|||Ruby||
