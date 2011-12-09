@@ -4,14 +4,14 @@ title:  "URUG: Utah Ruby Shops"
 ---
                                
 |_. Company |_. Location |_. Contact |_. Hiring|
-|"12 Spokes":http://www.12spokes.com/|SLC|information@12spokes.com||
+|"12 Spokes":http://www.12spokes.com/|SLC|"Information":mailto:information@12spokes.com||
 |"1on1 Marketing":http://www.1on1.com/||||
 |"AboutOne":http://www.aboutone.com/||||
 |"Alliance Health":http://alliancehealth.com/||||
 |"Bloomfire":http://www.bloomfire.com/|Lehi|Mike Moore|"Yes":http://www.bloomfire.com/about-us/jobs/|
 |"Dailydazzlingdeals":http://www.dazzlingdailydeals.com/||||
 |"Divergent Logic":http://www.divergentlogic.com/||||
-|"EmpowerIT.com":http://empowerit.com/||"Allen Maxwell":amaxwell@empowerit.com|"Yes":https://groups.google.com/d/topic/urug/fBFazIh_ZGY/discussion|
+|"EmpowerIT.com":http://empowerit.com/||"Allen Maxwell":mailto:amaxwell@empowerit.com|"Yes":https://groups.google.com/d/topic/urug/fBFazIh_ZGY/discussion|
 |"Franklin Estimating":http://www.franklinestimating.com/|||
 |"HotZing":https://www.hotzing.com/|St George|Keith Kelsch||
 |"iFan Media":http://www.ifanmedia.com/|||
