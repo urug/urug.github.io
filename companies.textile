@@ -23,7 +23,7 @@ Send a pull request or send Tyler an "email":mailto:tyler.bird@gmail.com with ch
 |"HotZing":https://www.hotzing.com/|St George|Keith Kelsch|Ruby||
 |"iFan Media":http://www.ifanmedia.com/|||Ruby||
 |"Instructure":http://www.instructure.com/|||Ruby||
-|"Intentional Excellence":http://intentionalexcellencepodcast.com/|Utah Valley|Chuck Wood|Ruby||
+|"Intentional Excellence":http://teachmetocode.com/|Utah Valley|"Chuck Wood":mailto:chuck@teachmetocode.com|Ruby|"Yes":mailto:chuck@teachmetocode.com|
 |"Lead Media Partners":http://leadmediapartners.com/|||Ruby||
 |"LeadTune":http://leadtune.com/|||Ruby||
 |"Matchbin":http://www.matchbin.com/|||Ruby||
