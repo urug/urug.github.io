@@ -2,13 +2,16 @@
 layout: default
 title:  "URUG: Utah Ruby Shops"
 ---
-                               
-|_. Company |_. Location |_. Contact |_. Hiring|
+
+table{border:1px solid black}.                              
+{background:#000 font-weight: bold color:white}. |_. Company |_. Location |_. Contact |_. Hiring|
 |"12 Spokes":http://www.12spokes.com/|SLC|"Information":mailto:information@12spokes.com||
 |"1on1 Marketing":http://www.1on1.com/||||
 |"AboutOne":http://www.aboutone.com/||||
 |"Alliance Health":http://alliancehealth.com/||||
+|"bigcartel":http://bigcartel.com/||||
 |"Bloomfire":http://www.bloomfire.com/|Lehi|Mike Moore|"Yes":http://www.bloomfire.com/about-us/jobs/|
+|"Cube2media":http://www.cube2media.com/||||
 |"Dailydazzlingdeals":http://www.dazzlingdailydeals.com/||||
 |"Divergent Logic":http://www.divergentlogic.com/||||
 |"EmpowerIT.com":http://empowerit.com/||"Allen Maxwell":mailto:amaxwell@empowerit.com|"Yes":https://groups.google.com/d/topic/urug/fBFazIh_ZGY/discussion|
@@ -22,10 +25,9 @@ title:  "URUG: Utah Ruby Shops"
 |"Matchbin":http://www.matchbin.com/||||
 |"mediaFORGE":http://www.mediaforge.com/|||
 |"MoneyDesktop":http://moneydesktop.com/|Provo|Ryan Caldwell|"Yes":http://moneydesktop.com/company/careers|
+|"MyeBiz":http:/myebiz.com||||
 |"North Point Advisors":http://www.nptadvisors.com/||||
 |"Saxton / Horne":http://www.saxtonhorne.com/||||
-|Scan, Inc.||||        
+|Scan, Inc.||||
 |"SurgeWorks":http://surgeworks.com/||JT Zemp||
 |"Voonami":http://www.voonami.com/||||
-
-                                                       
