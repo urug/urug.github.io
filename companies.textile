@@ -3,8 +3,7 @@ layout: default
 title:  "URUG: Utah Ruby Shops"
 ---
 
-table{border:1px solid black}.                              
-{background:#000 font-weight: bold color:white}. |_. Company |_. Location |_. Contact |_. Hiring|
+|_. Company |_. Location |_. Contact |_. Hiring|
 |"12 Spokes":http://www.12spokes.com/|SLC|"Information":mailto:information@12spokes.com||
 |"1on1 Marketing":http://www.1on1.com/||||
 |"AboutOne":http://www.aboutone.com/||||
@@ -15,15 +14,15 @@ table{border:1px solid black}.
 |"Dailydazzlingdeals":http://www.dazzlingdailydeals.com/||||
 |"Divergent Logic":http://www.divergentlogic.com/||||
 |"EmpowerIT.com":http://empowerit.com/||"Allen Maxwell":mailto:amaxwell@empowerit.com|"Yes":https://groups.google.com/d/topic/urug/fBFazIh_ZGY/discussion|
-|"Franklin Estimating":http://www.franklinestimating.com/|||
+|"Franklin Estimating":http://www.franklinestimating.com/||||
 |"HotZing":https://www.hotzing.com/|St George|Keith Kelsch||
-|"iFan Media":http://www.ifanmedia.com/|||
+|"iFan Media":http://www.ifanmedia.com/||||
 |"Instructure":http://www.instructure.com/||||
 |"Intentional Excellence":http://intentionalexcellencepodcast.com/|Utah Valley|Chuck Wood||
 |"Lead Media Partners":http://leadmediapartners.com/||||
 |"LeadTune":http://leadtune.com/||||
 |"Matchbin":http://www.matchbin.com/||||
-|"mediaFORGE":http://www.mediaforge.com/|||
+|"mediaFORGE":http://www.mediaforge.com/||||
 |"MoneyDesktop":http://moneydesktop.com/|Provo|Ryan Caldwell|"Yes":http://moneydesktop.com/company/careers|
 |"MyeBiz":http:/myebiz.com||||
 |"North Point Advisors":http://www.nptadvisors.com/||||

@@ -133,3 +133,16 @@ body > nav a {
 body > footer {
 	text-align: center;
 }
+
+body > table { 
+	width: 100%;
+	padding: 0;
+	margin: 0;	
+	border: 1px solid black;
+}
+            
+body > table th {
+	background: #000;
+	font-weight: bold;
+	color: white;
+}
