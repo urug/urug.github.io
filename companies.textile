@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "URUG: Utah Ruby Shops"
+title:  "Utah Ruby Companies"
 ---
 
 h3. Got a job? Or more details?
