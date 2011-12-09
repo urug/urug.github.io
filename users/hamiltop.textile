@@ -1,8 +1,8 @@
 ---
 layout: page
-title: “Peter Hamilton”
+title: "Peter Hamilton"
 username: hamiltop
-fullname: “Peter Hamilton”
+fullname: "Peter Hamilton"
 ---
 Peter Hamilton seems to do everything.
 
