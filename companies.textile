@@ -3,30 +3,30 @@ layout: default
 title:  "URUG: Utah Ruby Shops"
 ---
 
-|_. Company |_. Location |_. Contact |_. Hiring|
-|"12 Spokes":http://www.12spokes.com/|SLC|"Information":mailto:information@12spokes.com||
-|"1on1 Marketing":http://www.1on1.com/||||
-|"AboutOne":http://www.aboutone.com/||||
-|"Alliance Health":http://alliancehealth.com/||||
-|"bigcartel":http://bigcartel.com/||||
-|"Bloomfire":http://www.bloomfire.com/|Lehi|Mike Moore|"Yes":http://www.bloomfire.com/about-us/jobs/|
-|"Cube2media":http://www.cube2media.com/||||
-|"Dailydazzlingdeals":http://www.dazzlingdailydeals.com/||||
-|"Divergent Logic":http://www.divergentlogic.com/||||
-|"EmpowerIT.com":http://empowerit.com/||"Allen Maxwell":mailto:amaxwell@empowerit.com|"Yes":https://groups.google.com/d/topic/urug/fBFazIh_ZGY/discussion|
-|"Franklin Estimating":http://www.franklinestimating.com/||||
-|"HotZing":https://www.hotzing.com/|St George|Keith Kelsch||
-|"iFan Media":http://www.ifanmedia.com/||||
-|"Instructure":http://www.instructure.com/||||
-|"Intentional Excellence":http://intentionalexcellencepodcast.com/|Utah Valley|Chuck Wood||
-|"Lead Media Partners":http://leadmediapartners.com/||||
-|"LeadTune":http://leadtune.com/||||
-|"Matchbin":http://www.matchbin.com/||||
-|"mediaFORGE":http://www.mediaforge.com/||||
-|"MoneyDesktop":http://moneydesktop.com/|Provo|Ryan Caldwell|"Yes":http://moneydesktop.com/company/careers|
-|"MyeBiz":http:/myebiz.com||||
-|"North Point Advisors":http://www.nptadvisors.com/||||
-|"Saxton / Horne":http://www.saxtonhorne.com/||||
-|Scan, Inc.||||
-|"SurgeWorks":http://surgeworks.com/||JT Zemp||
-|"Voonami":http://www.voonami.com/||||
+|_. Company |_. Location |_. Contact |_. Type |_. Hiring|
+|"12 Spokes":http://www.12spokes.com/|SLC|"Information":mailto:information@12spokes.com|Ruby||
+|"1on1 Marketing":http://www.1on1.com/|||Ruby||
+|"AboutOne":http://www.aboutone.com/|||Ruby||
+|"Alliance Health":http://alliancehealth.com/|||Ruby||
+|"bigcartel":http://bigcartel.com/|||Ruby||
+|"Bloomfire":http://www.bloomfire.com/|Lehi|Mike Moore|Ruby|"Yes":http://www.bloomfire.com/about-us/jobs/|
+|"Cube2media":http://www.cube2media.com/|||Ruby, JS, UX||
+|"Dailydazzlingdeals":http://www.dazzlingdailydeals.com/|||Ruby||
+|"Divergent Logic":http://www.divergentlogic.com/|||Ruby||
+|"EmpowerIT.com":http://empowerit.com/||"Allen Maxwell":mailto:amaxwell@empowerit.com|Ruby|"Yes":https://groups.google.com/d/topic/urug/fBFazIh_ZGY/discussion|
+|"Franklin Estimating":http://www.franklinestimating.com/|||Ruby||
+|"HotZing":https://www.hotzing.com/|St George|Keith Kelsch|Ruby||
+|"iFan Media":http://www.ifanmedia.com/|||Ruby||
+|"Instructure":http://www.instructure.com/|||Ruby||
+|"Intentional Excellence":http://intentionalexcellencepodcast.com/|Utah Valley|Chuck Wood|Ruby||
+|"Lead Media Partners":http://leadmediapartners.com/|||Ruby||
+|"LeadTune":http://leadtune.com/|||Ruby||
+|"Matchbin":http://www.matchbin.com/|||Ruby||
+|"mediaFORGE":http://www.mediaforge.com/|||Ruby||
+|"MoneyDesktop":http://moneydesktop.com/|Provo|Ryan Caldwell|Ruby, JS|"Yes":http://moneydesktop.com/company/careers|
+|"MyeBiz":http:/myebiz.com|||Ruby||
+|"North Point Advisors":http://www.nptadvisors.com/|||Ruby||
+|"Saxton / Horne":http://www.saxtonhorne.com/|||Ruby||
+|Scan, Inc.|||Ruby||
+|"SurgeWorks":http://surgeworks.com/||JT Zemp|Ruby||
+|"Voonami":http://www.voonami.com/|||Ruby||
