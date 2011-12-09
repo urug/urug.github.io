@@ -3,6 +3,10 @@ layout: default
 title:  "URUG: Utah Ruby Shops"
 ---
 
+h3. Got a job? Or more details?
+
+Send a pull request or send Tyler an "email":mailto:tyler.bird@gmail.com with changes.
+
 |_. Company |_. Location |_. Contact |_. Type |_. Hiring|
 |"12 Spokes":http://www.12spokes.com/|SLC|"Information":mailto:information@12spokes.com|Ruby||
 |"1on1 Marketing":http://www.1on1.com/|||Ruby||
