@@ -32,6 +32,6 @@ Send a pull request or send Tyler an "email":mailto:tyler.bird@gmail.com with ch
 |"MyeBiz":http:/myebiz.com|||Ruby||
 |"North Point Advisors":http://www.nptadvisors.com/|||Ruby||
 |"Saxton / Horne":http://www.saxtonhorne.com/|||Ruby||
-|Scan, Inc.|||Ruby||
+|"Scan, Inc.":http://scan.me/|Provo/San Francisco|"Jarod Reid":mailto:jarod@scan.me|Ruby|"Yes":mailto:jobs@scan.me|
 |"SurgeWorks":http://surgeworks.com/||JT Zemp|Ruby||
 |"Voonami":http://www.voonami.com/|||Ruby||
