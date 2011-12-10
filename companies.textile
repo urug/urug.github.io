@@ -28,7 +28,7 @@ Send a pull request or send Tyler an "email":mailto:tyler.bird@gmail.com with ch
 |"LeadTune":http://leadtune.com/|||Ruby||
 |"mediaFORGE":http://www.mediaforge.com/|SLC|"Doug Tolton":mailto:doug@mediaforge.com|Ruby|"Yes":mailto:doug@mediaforge.com|
 |"MoneyDesktop":http://moneydesktop.com/|Provo|"BJ Neilsen":mailto:bj@moneydesktop.com|Ruby, JS|"Yes":http://moneydesktop.com/company/careers|
-|"MyeBiz":http:/myebiz.com|||Ruby||
+|"MyeBiz":http://myebiz.com|Lehi|"Dave Moulton":mailto:dave@myebiz.com|Ruby||
 |"North Point Advisors":http://www.nptadvisors.com/|||Ruby||
 |"OveractDev":http://overactdev.com/|Orem/St.George|Daniel Evans|Ruby||
 |"Radiate Media":http://www.radiatemedia.com/|SLC|"Justin Caldwell":mailto:justin.caldwell@matchbin.com|Ruby|"Yes":mailto:justin.caldwell@matchbin.com|
