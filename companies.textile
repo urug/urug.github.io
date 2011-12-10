@@ -35,7 +35,7 @@ Send a pull request or send Tyler an "email":mailto:tyler.bird@gmail.com with ch
 |"Saxton / Horne":http://www.saxtonhorne.com/|||Ruby||
 |"Scan, Inc.":http://scan.me/|Provo/San Francisco|"Jarod Reid":mailto:jarod@scan.me|Ruby|"Yes":mailto:jobs@scan.me|
 |"SurgeWorks":http://surgeworks.com/||JT Zemp|Ruby||
-|"Tatemae":http://www.tatemae.com/|Logan|Justin Ball|Ruby|"Yes"|
+|"Tatemae":http://www.tatemae.com/|Logan|Justin Ball|Ruby|"Yes":justin@tatemae.com|
 |"Voonami":http://www.voonami.com/|||Ruby||
 
 
