@@ -8,7 +8,7 @@ h3. Got a job? Or more details?
 Send a pull request or send Tyler an "email":mailto:tyler.bird@gmail.com with changes.
 
 |_. Company |_. Location |_. Contact |_. Type |_. Hiring|
-|"12 Spokes":http://www.12spokes.com/|SLC|"Information":mailto:information@12spokes.com|Ruby||
+|"12 Spokes":http://www.12spokes.com/|SLC|"Trey Bean":mailto:information@12spokes.com|Ruby, JS, UX||
 |"1on1 Marketing":http://www.1on1.com/|||Ruby||
 |"AboutOne":http://www.aboutone.com/|||Ruby||
 |"Alliance Health":http://alliancehealth.com/|||Ruby||
