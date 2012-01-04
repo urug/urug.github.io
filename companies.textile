@@ -32,7 +32,7 @@ Send a pull request or send Tyler an "email":mailto:tyler.bird@gmail.com with ch
 |"North Point Advisors":http://www.nptadvisors.com/|||Ruby||
 |"OveractDev":http://overactdev.com/|Orem/St.George|Daniel Evans|Ruby||
 |"Radiate Media":http://www.radiatemedia.com/|SLC|"Justin Caldwell":mailto:justin.caldwell@matchbin.com|Ruby|"Yes":mailto:justin.caldwell@matchbin.com|
-|"Saxton | Horne":http://www.saxtonhorne.com/|Sandy|"Jake Mallory":mailto:jmallory@saxtonhorne.com|Ruby, JS, UX|"Yes":mailto:jmallory@saxtonhorne.com|
+|"Saxton Horne":http://www.saxtonhorne.com/|Sandy|"Jake Mallory":mailto:jmallory@saxtonhorne.com|Ruby, JS, UX|"Yes":mailto:jmallory@saxtonhorne.com|
 |"Scan, Inc.":http://scan.me/|Provo/San Francisco|"Jarod Reid":mailto:jarod@scan.me|Ruby|"Yes":mailto:jobs@scan.me|
 |"SurgeWorks":http://surgeworks.com/||JT Zemp|Ruby||
 |"Tatemae":http://www.tatemae.com/|Logan|Justin Ball|Ruby, JS|"Yes":justin@tatemae.com|
