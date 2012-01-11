@@ -15,7 +15,7 @@ Send a pull request or send Tyler an "email":mailto:tyler.bird@gmail.com with ch
 |"bigcartel":http://bigcartel.com/|||Ruby||
 |"Bloomfire":http://www.bloomfire.com/|Lehi|Mike Moore|Ruby|"Yes":http://www.bloomfire.com/about-us/jobs/|
 |"Cube2media":http://www.cube2media.com/|||Ruby, JS, UX||
-|"Custom Bit":http://www.custombit.com/|St. George|"Brian Wilson":mailto:info@custombit.com|Ruby, JS, UX|"Yes":mailto:jobs@custombit.com|
+|"Custom Bit":http://www.custombit.com/|St. George|"Brian Wilson":mailto:info@custombit.com|Ruby, JS, UX|"Yes":http://www.custombit.com/careers/|
 |"Dailydazzlingdeals":http://www.dazzlingdailydeals.com/|||Ruby||
 |"Divergent Logic":http://www.divergentlogic.com/|Layton|Ceaser Larry|Ruby||
 |"EmpowerIT.com":http://empowerit.com/||"Allen Maxwell":mailto:amaxwell@empowerit.com|Ruby|"Yes":https://groups.google.com/d/topic/urug/fBFazIh_ZGY/discussion|
