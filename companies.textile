@@ -15,7 +15,7 @@ title:  "Utah Ruby Companies"
 |"Dailydazzlingdeals":http://www.dazzlingdailydeals.com/|||Ruby||
 |"Divergent Logic":http://www.divergentlogic.com/|Layton|Ceaser Larry|Ruby||
 |"EmpowerIT.com":http://empowerit.com/||"Allen Maxwell":mailto:amaxwell@empowerit.com|Ruby|"Yes":https://groups.google.com/d/topic/urug/fBFazIh_ZGY/discussion|
-|"Franklin Estimating":http://www.franklinestimating.com/|SLC|Mark Ericksen|Ruby||
+|"Franklin Estimating":http://www.franklinestimating.com/|SLC|Brett Rasmussen|Ruby|"Yes":https://groups.google.com/d/topic/urug/U2mzy3hbN30/discussion|
 |"HotZing":https://www.hotzing.com/|St.George|Keith Kelsch|Ruby||
 |"iFan Media":http://www.ifanmedia.com/|||Ruby||
 |"Instructure":http://www.instructure.com/|||Ruby||
