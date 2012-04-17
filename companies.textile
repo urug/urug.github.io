@@ -20,6 +20,7 @@ title:  "Utah Ruby Companies"
 |"iFan Media":http://www.ifanmedia.com/|||Ruby||
 |"Instructure":http://www.instructure.com/|||Ruby||
 |"Intentional Excellence":http://teachmetocode.com/|Utah Valley|"Chuck Wood":mailto:chuck@teachmetocode.com|Ruby|"Yes":mailto:chuck@teachmetocode.com|
+|"Katalus":http://katalus.com/|Alpine|Jason Staten|Ruby, JS|"Yes":http://katalus.com/jobs|
 |"Lead Media Partners":http://leadmediapartners.com/|||Ruby||
 |"LeadTune":http://leadtune.com/|||Ruby||
 |"mediaFORGE":http://www.mediaforge.com/|SLC|"Doug Tolton":mailto:doug@mediaforge.com|Ruby|"Yes":mailto:doug@mediaforge.com|
