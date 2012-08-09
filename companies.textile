@@ -22,19 +22,19 @@ title:  "Utah Ruby Companies"
 |"Intentional Excellence":http://teachmetocode.com/|Utah Valley|"Chuck Wood":mailto:chuck@teachmetocode.com|Ruby|"Yes":mailto:chuck@teachmetocode.com|
 |"Katalus":http://katalus.com/|Alpine|Jason Staten|Ruby, JS|"Yes":http://katalus.com/jobs|
 |"Lead Media Partners":http://leadmediapartners.com/|||Ruby||
-|"LeadTune":http://leadtune.com/|||Ruby||
 |"mediaFORGE":http://www.mediaforge.com/|SLC|"Doug Tolton":mailto:doug@mediaforge.com|Ruby|"Yes":mailto:doug@mediaforge.com|
 |"MoneyDesktop":http://moneydesktop.com/|Provo|"BJ Neilsen":mailto:bj@moneydesktop.com|Ruby, JS|"Yes":http://moneydesktop.com/company/careers|
 |"MyeBiz":http://myebiz.com|Lehi|"Dave Moulton":mailto:dave@myebiz.com|Ruby||
 |"North Point Advisors":http://www.nptadvisors.com/|||Ruby||
 |"OveractDev":http://overactdev.com/|Orem/St.George|Daniel Evans|Ruby||
 |"Radiate Media":http://www.radiatemedia.com/|SLC|"Justin Caldwell":mailto:justin.caldwell@matchbin.com|Ruby|"Yes":mailto:justin.caldwell@matchbin.com|
+|"Red Brain Labs":http://redbrainlabs.com/|||Ruby||
 |"Saxton Horne":http://www.saxtonhorne.com/|Sandy|"Corey Woodcox":mailto:cwoodcox@saxtonhorne.com|Ruby, JS, UX|"Yes":mailto:cwoodcox@saxtonhorne.com|
-|"Total Care Auto":http://www.totalcareauto.com/|Sandy|"Jake Mallory":mailto:jmallory@lhm.com|Ruby, JS, UX|"Yes":mailto:jmallory@lhm.com|
 |"Savvi":http://www.savvi.com/|Salt Lake City|"Ben Eggett":mailto:beggett@savvi.com|Ruby||
 |"Scan, Inc.":http://scan.me/|Provo/San Francisco|"Jarod Reid":mailto:jarod@scan.me|Ruby|"Yes":mailto:jobs@scan.me|
 |"SurgeWorks":http://surgeworks.com/||JT Zemp|Ruby||
 |"Tatemae":http://www.tatemae.com/|Logan|Justin Ball|Ruby, JS|"Yes":justin@tatemae.com|
+|"Total Care Auto":http://www.totalcareauto.com/|Sandy|"Jake Mallory":mailto:jmallory@lhm.com|Ruby, JS, DevOps|"Yes":mailto:jmallory@lhm.com|
 |"Voonami":http://www.voonami.com/|||Ruby||
 
 
