@@ -21,6 +21,7 @@ title:  "Utah Ruby Companies"
 |"Instructure":http://www.instructure.com/|||Ruby||
 |"Intentional Excellence":http://teachmetocode.com/|Utah Valley|"Chuck Wood":mailto:chuck@teachmetocode.com|Ruby|"Yes":mailto:chuck@teachmetocode.com|
 |"Katalus":http://katalus.com/|Alpine|Jason Staten|Ruby, JS|"Yes":http://katalus.com/jobs|
+|"Landcar Life Insurance":http://www.totalcareauto.com/|Sandy|"Jake Mallory":mailto:jmallory@landcar.com|(J)Ruby, JS|"Yes":mailto:jmallory@landcar.com|
 |"Lead Media Partners":http://leadmediapartners.com/|||Ruby||
 |"mediaFORGE":http://www.mediaforge.com/|SLC|"Doug Tolton":mailto:doug@mediaforge.com|Ruby|"Yes":mailto:doug@mediaforge.com|
 |"MoneyDesktop":http://moneydesktop.com/|Provo|"BJ Neilsen":mailto:bj@moneydesktop.com|Ruby, JS|"Yes":http://moneydesktop.com/company/careers|
@@ -34,7 +35,6 @@ title:  "Utah Ruby Companies"
 |"Scan, Inc.":http://scan.me/|Provo/San Francisco|"Jarod Reid":mailto:jarod@scan.me|Ruby|"Yes":mailto:jobs@scan.me|
 |"SurgeWorks":http://surgeworks.com/||JT Zemp|Ruby||
 |"Tatemae":http://www.tatemae.com/|Logan|Justin Ball|Ruby, JS|"Yes":justin@tatemae.com|
-|"Total Care Auto":http://www.totalcareauto.com/|Sandy|"Jake Mallory":mailto:jmallory@lhm.com|Ruby, JS, DevOps|"Yes":mailto:jmallory@lhm.com|
 |"Voonami":http://www.voonami.com/|||Ruby||
 
 
