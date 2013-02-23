@@ -9,7 +9,6 @@ title:  "Utah Ruby Companies"
 |"AboutOne":http://www.aboutone.com/|||Ruby||
 |"Alliance Health":http://alliancehealth.com/|||Ruby||
 |"bigcartel":http://bigcartel.com/|||Ruby||
-|"Bloomfire":http://www.bloomfire.com/|Lehi|Mike Moore|Ruby|"Yes":http://www.bloomfire.com/about-us/jobs/|
 |"Cube2media":http://www.cube2media.com/|||Ruby, JS, UX||
 |"Custom Bit":http://www.custombit.com/|St. George|"Brian Wilson":mailto:info@custombit.com|Ruby, JS, UX|"Yes":http://www.custombit.com/careers/|
 |"Dailydazzlingdeals":http://www.dazzlingdailydeals.com/|||Ruby||
