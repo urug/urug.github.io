@@ -22,7 +22,7 @@ title:  "Utah Ruby Companies"
 |"Katalus":http://katalus.com/|Alpine|Jason Staten|Ruby, JS|"Yes":http://katalus.com/jobs|
 |"Landcar Life Insurance":http://www.totalcareauto.com/|Sandy|"Jake Mallory":mailto:jmallory@landcar.com|(J)Ruby, JS|"Yes":mailto:jmallory@landcar.com|
 |"Lead Media Partners":http://leadmediapartners.com/|||Ruby||
-|"MasteryConnect":http://www.masteryconnect.com/|SLC|"Doug Weber":mailto:doug@masteryconnect.com|Ruby|"Yes":http://www.masteryconnect.com/jobs|
+|"MasteryConnect":http://www.masteryconnect.com/|SLC|"Daniel Baldwin":mailto:daniel@masteryconnect.com|Ruby|"Yes":http://www.masteryconnect.com/jobs|
 |"mediaFORGE":http://www.mediaforge.com/|SLC|"Doug Tolton":mailto:doug@mediaforge.com|Ruby|"Yes":mailto:doug@mediaforge.com|
 |"MoneyDesktop":http://moneydesktop.com/|Provo|"BJ Neilsen":mailto:bj@moneydesktop.com|Ruby, JS|"Yes":http://moneydesktop.com/company/careers|
 |"MyeBiz":http://myebiz.com|Lehi|"Dave Moulton":mailto:dave@myebiz.com|Ruby||
