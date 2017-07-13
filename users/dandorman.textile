@@ -1,7 +1,0 @@
----
-layout:   page
-title:    "Dan Dorman"
-username: dandorman
-fullname: "Dan Dorman"
----
-Dan "tweets":http://twitter.com/dandorman, "writes code":https://github.com/dandorman/, plays "asteroids":http://dan.no.de, and gives a <code>[hoot]</code> about an "Oxford comma":http://en.wikipedia.org/wiki/Serial_comma.

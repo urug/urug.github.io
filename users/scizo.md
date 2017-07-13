@@ -7,5 +7,5 @@ fullname: "Scott Nielsen"
 
 I don't have anything clever to say at the moment.
 
-"github":http://github.com/scizo : I do have some code
-"twitter":http://twitter.com/smniel : I don't have an avatar
+[github](http://github.com/scizo) : I do have some code
+[twitter](http://twitter.com/smniel) : I don't have an avatar

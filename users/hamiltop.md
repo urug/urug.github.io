@@ -4,10 +4,11 @@ title: "Peter Hamilton"
 username: hamiltop
 fullname: "Peter Hamilton"
 ---
+
 Peter Hamilton seems to do everything.
 
-His "Blog":http://undiscoveredfeatures.com has everything from hardware hacks to art pieces.
+His [Blog](http://undiscoveredfeatures.com) has everything from hardware hacks to art pieces.
 
-"Google+":https://plus.google.com/u/0/112306339882355338783/ is his preferred social media.
+[Google+](https://plus.google.com/u/0/112306339882355338783/) is his preferred social media.
 
 And though he codes in Ruby for a living, he still loves a good bithack in C.

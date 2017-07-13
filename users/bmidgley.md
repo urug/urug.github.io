@@ -4,4 +4,5 @@ title:    "Brad"
 username: bmidgley
 fullname: "Brad Midgley"
 ---
-Brad "webgl":http://pointmarker.com/webgl
+
+Brad [webgl](http://pointmarker.com/webgl)
