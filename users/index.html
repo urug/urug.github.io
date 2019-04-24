@@ -2,7 +2,7 @@
 layout: page
 title:  "URUG Users"
 ---
-{% assign user_pages = (site.pages | sort: 'fullname')  %}
+{% assign user_pages = site.pages | sort: 'fullname'  %}
 {% for user_page in user_pages %}
 <ul>
 {% if user_page.username && user_page.fullname %}
