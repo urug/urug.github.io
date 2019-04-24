@@ -1,4 +1,4 @@
-pygments: true
 exclude:
 - README
 - CNAME
+highlighter: rouge
