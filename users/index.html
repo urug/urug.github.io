@@ -2,7 +2,8 @@
 layout: page
 title:  "URUG Users"
 ---
-{% for user_page in site.pages | sort %}
+{% assign user_pages = site.pages | sort: 'fullname'  %}
+{% for user_page in user_pages %}
 <ul>
 {% if user_page.username && user_page.fullname %}
   <li><a href="{{ user_page.url | replace:'.html','' }}">{{ user_page.fullname }} ({{ user_page.username }})</a></li>
