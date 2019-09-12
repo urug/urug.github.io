@@ -7,6 +7,7 @@ fullname: "Tad Thorley"
 
 On the quiet side. A bit peculiar. A good companion, in a weird sort of way.
 
-[blog](http://tadthorley.com)
-[twitter](http://twitter.com/phaedryx)
-[github](https://github.com/phaedryx)
+Professional Blog: https://tad.thorley.dev<br>
+Rando Blog: https://tadthorley.com<br>
+Mastodon: https://ruby.social/@phaedryx<br>
+GitHub: https://github.com/phaedryx<br>
